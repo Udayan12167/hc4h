@@ -2400,6 +2400,10 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.normal {
+			margin: 0 0 2em 0;
+		}
+
 			.image.fit img {
 				width: 100%;
 			}
